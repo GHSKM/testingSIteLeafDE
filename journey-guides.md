@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /guides/
 ---
  <div class="row">
     {% for guide in site.guides %}
