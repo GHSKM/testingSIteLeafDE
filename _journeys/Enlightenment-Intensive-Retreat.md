@@ -9,7 +9,7 @@ tags:
 - Temples
 - Meditate
 - Lessons
-layout: package
+image: "/uploads/slider4-470x168.jpg"
 author: admin
 comments: true
 journey-description: What is Enlightenment?<br>Secrets of sustained Enlightenment
@@ -17,9 +17,8 @@ journey-description: What is Enlightenment?<br>Secrets of sustained Enlightenmen
   to Liberation)<br><em>Nirvikalpa Samadhi</em> – <em>Ek Aparoksha Anubhuti</em> (An
   indirect – Experience-less Experience)
 thumbnail: "/images/GuidedThumb.jpg"
-image: "/images/GuidedMain.jpg"
 guided: true
-map-image: ''
+map-image: 
 journey-experience:
 - The strong spiritual vibrations at Tiruvannamalai elevate us to different energy
   level. Temple visits, the girivalam ritual and satsangs ( spiritual discourses)
@@ -34,6 +33,7 @@ journey-highlights:
 - Circumambulate the sacred hills, Arunachaleswar
 - Learning Sessions by enlightened Masters Guruji Prem Nirmal and Guruma Bhartiji
 excerpt_separator: "<!--more-->"
+layout: package
 ---
 
 <p>Questions and answers that move your very being.  This unique learning module makes one question our own belief systems,<!--more--> redefines values that have shaped our lives and takes us closer to the truth about ourselves. With the grace of the masters one learns to understand what ‘enlightenment’ truly means and ways to sustain this powerful state of existence.</p>
