@@ -32,6 +32,7 @@ journey-highlights:
 - Meditate in the caves of Ramana
 - Circumambulate the sacred hills, Arunachaleswar
 - Learning Sessions by enlightened Masters Guruji Prem Nirmal and Guruma Bhartiji
+- 'test '
 excerpt_separator: "<!--more-->"
 layout: package
 ---
