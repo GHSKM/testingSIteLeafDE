@@ -1,30 +1,51 @@
 ---
+title: Discover Kerala……..Rediscover your Soul!!!
+date: 2018-01-16 00:00:00 Z
+categories:
+- Popular
+tags:
+- Family Bonding
+- Popular
+- Scenic locations
+- Temples
 layout: package
 thumbnail: "/images/munnar-trip-planning-450x300.jpg"
 image: "/images/Kerala.jpg"
-map-image: ""
-title: Discover Kerala……..Rediscover your Soul!!!
-date: 2018-01-16 00:00:00 +0000
-categories: [Popular]
-tags: [Family Bonding, Popular, Scenic locations, Temples]
+map-image: ''
 author: admin
 journey-highlights:
-  -  Holistic exercises in rejuvenating locations
-  -  Kathakali dance 
-  -  Authentic Kerala Ayurvedic Spa
-  -  Visit of Tea Museum
-  -  Traditional Kerala Food
-  -  Houseboat stay
-  -  Visits to Athirappally Waterfalls,Munnar Hill Station,Kumarakom,         Backwaters,Guruvayur Temple Visit.
-  -  Historic Places in Kochi like Jewish Synagogue,St.Francis Church,Santa    Cruz Basilica, Chinese fishing nets at Fort Kochi and Bolgatty Palace
-  
-journey-experience: 
-  -  Emancipate yourself amidst cool, tranquil backwaters, beaches, misty mountains, gorgeous green plains, flora & fauna.  Unperturbed stretches of backwaters in bright green, extensive water's edge  with quiet beaches, gleaming paddy fields, extensive flora and fauna, reverberating waterfalls, flourishing green hill stations, enchanting  festivals,  exotic cuisine and an holistic approach... all collectively offer a unique experience and helps one to brighten up your spirits,rejuvenate your body,refresh your mind and rediscover your soul.
+- Holistic exercises in rejuvenating locations
+- Kathakali dance
+- Authentic Kerala Ayurvedic Spa
+- Visit of Tea Museum
+- Traditional Kerala Food
+- Houseboat stay
+- Visits to Athirappally Waterfalls,Munnar Hill Station,Kumarakom,         Backwaters,Guruvayur
+  Temple Visit.
+- Historic Places in Kochi like Jewish Synagogue,St.Francis Church,Santa    Cruz Basilica,
+  Chinese fishing nets at Fort Kochi and Bolgatty Palace
+journey-experience:
+- Emancipate yourself amidst cool, tranquil backwaters, beaches, misty mountains,
+  gorgeous green plains, flora & fauna.  Unperturbed stretches of backwaters in bright
+  green, extensive water's edge  with quiet beaches, gleaming paddy fields, extensive
+  flora and fauna, reverberating waterfalls, flourishing green hill stations, enchanting  festivals,  exotic
+  cuisine and an holistic approach... all collectively offer a unique experience and
+  helps one to brighten up your spirits,rejuvenate your body,refresh your mind and
+  rediscover your soul.
 journey-description:
-  -  The most appropriate introduction to this charming and diverse state located in South India would be to call it “God’s own country”. Abundant with all elements of nature combined with  a rich cultural heritage make it a traveler’s paradise. Driving along this intensely tropical landscape is an intoxicating experience, as you witness the stillness of natural beauty every moment as you take in sights of  rice paddy, rivers, lagoons, waterfalls, lush mountains, emerald green backwaters and pristine beaches.When you travel this extraordinary land you just don’t just sight- see, you ‘experience’- and the beauty becomes a part of your very core. Nodding coconut palms gracefully welcome you to an everlasting connection with this land.
+- The most appropriate introduction to this charming and diverse state located in
+  South India would be to call it “God’s own country”. Abundant with all elements
+  of nature combined with  a rich cultural heritage make it a traveler’s paradise.
+  Driving along this intensely tropical landscape is an intoxicating experience, as
+  you witness the stillness of natural beauty every moment as you take in sights of  rice
+  paddy, rivers, lagoons, waterfalls, lush mountains, emerald green backwaters and
+  pristine beaches.When you travel this extraordinary land you just don’t just sight-
+  see, you ‘experience’- and the beauty becomes a part of your very core. Nodding
+  coconut palms gracefully welcome you to an everlasting connection with this land.
 guided: false
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
+
 <p><b>Athirappally Waterfalls</b></p>
 <p>Nicknamed as the Niagara of India this natural phenomenon lives upto its name. <!--more--> Set amidst a scenic backdrop the trek to the falls itself is a humid and tiring one.<!--more--> But when the cool spray of water  cascade down your face and you hear the gushing sounds of water falling, the experience is mesmerizing.  An ideal place to connect with your innerself and practice breath awareness.</p>
 <p><b>Guruvayor Temple </b></p>

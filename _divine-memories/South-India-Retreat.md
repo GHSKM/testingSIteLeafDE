@@ -1,12 +1,14 @@
 ---
-layout: default
 title: My Inner Transformation in South India
-date: 2015-01-28 07:04
+date: 2015-01-28 07:04:00 Z
+categories:
+- Divine Memories
+layout: default
 author: admin
 comments: true
-excerpt_separator: <!--more-->
-categories: [Divine Memories]
+excerpt_separator: "<!--more-->"
 ---
+
 <p><i>Little did I expect an inner transformation when we embarked on this learning and pilgrimage journey,<!--more--> which unfolded in three parts. Thank you </i><b><i>Divine Explorer</i></b><i> for organizing this !!</i></p>
 <p><b><i>Unfoldment Part 1 –Let Go</i></b></p>
 <p><i>10,9.8,7.6,5,4,3,2,1.……blast off…yes we are on a earthly vehicle being transported around the galactic planets. The Navgraha temple tour under the guidance of Guruji Prem Nirmal and Guruma Bhartiji was an exalting experience. As we traversed the lands of Tamil Nadu to reach our several destinations one by one, we were immersed in the sights, sounds and smells of this enchanting state. Letting go…came easily…letting go of what we are accustomed to, was a step required to embrace whole-heartedly what this journey had to offer. The temple visits were not about ‘darshan’ but about ‘ inner darshan’- self-reflection and letting go of patterns, which blocked our paths of inner fulfillment.  Under the guidance of Guruji and Guruma who so lovingly guided us and explained the subtler aspects and the significance of each temple visit; we were truly blessed. ‘Let go’….just happened. Layers peeled off without any turmoil and seeds of transformation were sown.</i></p>

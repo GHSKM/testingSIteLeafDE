@@ -1,12 +1,13 @@
 ---
 title: FAQ
 call_to_action: Contact
-background_image_path:
+background_image_path: 
 large_header: false
-header_image_path : ..\Images\AboutUsHeader.jpg
+header_image_path: "..\\Images\\AboutUsHeader.jpg"
 show_in_navigation: true
 navigation_order: 1
 ---
+
 <h3 class="pageHeader"><b>Frequently Asked Questions</b></h3>
 
 <p><b>Q- I am interested in going for a divine journey, but am unable to join on the given dates.</b></p>

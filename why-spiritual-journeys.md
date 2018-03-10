@@ -1,12 +1,13 @@
 ---
 title: why-spiritual-journeys
 call_to_action: Contact
-background_image_path:
+background_image_path: 
 large_header: true
-header_image_path : ..\Images\spiritual_master.jpg
+header_image_path: "..\\Images\\spiritual_master.jpg"
 show_in_navigation: true
 navigation_order: 4
 ---
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">

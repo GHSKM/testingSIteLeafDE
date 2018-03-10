@@ -1,29 +1,56 @@
 ---
+title: Om Prem Sangha’s pilgrimage to Mahavatar Babaji’s cave
+date: 2018-01-16 00:00:00 Z
+categories:
+- Popular
+- Temples
+tags:
+- Energy Spots
+- Guided
+- Himalayas
+- Kriya
+- Lessons
+- Meditate
+- Pilgrimage
+- Popular
+- Scenic locations
+- Spiritual
+- Temples
+- Treks
 layout: package
 thumbnail: "/images/GuidedThumb.jpg"
 image: "/images/GuidedMain.jpg"
-map-image: ""
-title: Om Prem Sangha’s pilgrimage to Mahavatar Babaji’s cave
-date: 2018-01-16 00:00:00 +0000
+map-image: ''
 author: admin
 journey-highlights:
-  -  Vaishwanara Vidya - Secrets of Cosmic Being" sessions by Guruji Prem Nirmal & Guruma Bharati.
-  -  Trek to Shri Mahavatar Babaji's cave in Doonagiri.
-  -  Stay in scenic mountain towns of Nainital - Dwarahat - Kausani.
-  -  Energise your soul and rejuvenate at  energy spots.Visits to Neem      Karoli baba ashram at Kaichi,Heidakhan Baba Temple at Ranikhet,Naina        Devi Temple, Doonagiri Mata Temple.
-journey-experience: 
-  - Meditate in the holy caves and absorb those spiritual vibes.
-  - Experience a cooling settledness amongst snow clad Himalayan range in front of Trushul and Nanda Devi peaks !
-  - Rejuvenate your Body-Mind-Soul at Nimb Karauri Baba ashram at Kaichi Dham,  Heidakhan Baba Temple at Ranikhet, Doonagiri Mata temple and Naina Devi.
-  - Reunite with self through nature.
-  - Relax and let go to  journey into the innermost recesses of the soul.
-  - Discover the unknown.
+- Vaishwanara Vidya - Secrets of Cosmic Being" sessions by Guruji Prem Nirmal & Guruma
+  Bharati.
+- Trek to Shri Mahavatar Babaji's cave in Doonagiri.
+- Stay in scenic mountain towns of Nainital - Dwarahat - Kausani.
+- Energise your soul and rejuvenate at  energy spots.Visits to Neem      Karoli baba
+  ashram at Kaichi,Heidakhan Baba Temple at Ranikhet,Naina        Devi Temple, Doonagiri
+  Mata Temple.
+journey-experience:
+- Meditate in the holy caves and absorb those spiritual vibes.
+- Experience a cooling settledness amongst snow clad Himalayan range in front of Trushul
+  and Nanda Devi peaks !
+- Rejuvenate your Body-Mind-Soul at Nimb Karauri Baba ashram at Kaichi Dham,  Heidakhan
+  Baba Temple at Ranikhet, Doonagiri Mata temple and Naina Devi.
+- Reunite with self through nature.
+- Relax and let go to  journey into the innermost recesses of the soul.
+- Discover the unknown.
 journey-description:
-- Vaishwanara Vidya - Secrets of cosmic being.Many of us are sincerely trying to meditate but the practices we do bring neither prosperity and     nor peace or fulfillment. Sometimes as we start meditating, our life        becomes dry and gives happiness only in certain areas of life. If we        get wealth, we do not get peace of mind; and if we get name and fame,   we do not get harmonious relationships. Real right kind of meditation       should lead one to a complete fulfillment and a prosperous vibrant          blissful life! Should it not? But instead of meditating on the Whole we     actually are meditating on the partial and taking partial only as a     Whole because we simply cannot comprehend Whole! And that is the real       catch!
+- Vaishwanara Vidya - Secrets of cosmic being.Many of us are sincerely trying to meditate
+  but the practices we do bring neither prosperity and     nor peace or fulfillment.
+  Sometimes as we start meditating, our life        becomes dry and gives happiness
+  only in certain areas of life. If we        get wealth, we do not get peace of mind;
+  and if we get name and fame,   we do not get harmonious relationships. Real right
+  kind of meditation       should lead one to a complete fulfillment and a prosperous
+  vibrant          blissful life! Should it not? But instead of meditating on the
+  Whole we     actually are meditating on the partial and taking partial only as a     Whole
+  because we simply cannot comprehend Whole! And that is the real       catch!
 guided: true
-tags: [Energy Spots, Guided, Himalayas, Kriya, Lessons, Meditate, Pilgrimage, Popular, Scenic locations, Spiritual, Temples, Treks]
-categories: [Popular,Temples]
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 <p>This divine journey takes us  trekking amidst the beautiful Kumaon mountains in Doonagiri<!--more-->, Uttarakhand  to the very place where the secrets of Kriya Yoga were originally revealed to the modern world by Shri Mahavatar Babaji.This is the very spot where babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn "Vaishwanara Vidya - Secrets of Cosmic Being" from Guruji Prem Nirmal, in a surrounding which is comfortable, minimalistic yet authentically rich in natural beauty and  heritage. There is a very 'thin distance' between heaven and earth at this very special place.</p>

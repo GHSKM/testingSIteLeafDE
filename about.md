@@ -1,12 +1,13 @@
 ---
 title: About Us
 call_to_action: Contact
-background_image_path:
+background_image_path: 
 large_header: false
-header_image_path : ..\Images\AboutUsHeader.jpg
+header_image_path: "..\\Images\\AboutUsHeader.jpg"
 show_in_navigation: true
 navigation_order: 1
 ---
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">

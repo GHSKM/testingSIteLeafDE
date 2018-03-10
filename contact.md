@@ -1,7 +1,7 @@
 ---
 title: Contact
 call_to_action: Map
-background_image_path:
+background_image_path: 
 large_header: false
 show_in_navigation: true
 navigation_order: 3

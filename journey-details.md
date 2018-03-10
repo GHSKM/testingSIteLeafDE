@@ -1,6 +1,5 @@
 ---
-layout: package 
+layout: package
 ---
-
 
 {{content}}

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="row">
     <div class="col-md-4">
         <img src="{{ page.image }}" alt="{{ page.title }}">

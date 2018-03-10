@@ -1,12 +1,14 @@
 ---
-layout: default
 title: My Bali Experience
-date: 2015-01-28 07:09
+date: 2015-01-28 07:09:00 Z
+categories:
+- Divine Memories
+layout: default
 author: admin
 comments: true
-excerpt_separator: <!--more-->
-categories: [Divine Memories]
+excerpt_separator: "<!--more-->"
 ---
+
 <p><i>We all were immensely blessed in presence of </i><b><i>Guruji </i></b><i>&amp;</i><b><i> Guruma.</i></b></p><!--more-->
 <p><b><i>BALI</i></b><i> !!! Ah what a place ! Beautiful and serene with full of  positive prana &amp; vibes. </i><i>Immense gratitude to our organiser Divine Explorer for choosing AYODHYA resort </i><i>for hosting the retreat. It was such a huge and lovely property,very appropriate for the camp. Very luxurious, </i><i>beautiful and the staff was very helpful,co-operative and kind.</i></p>
 <p><i>Thanks to camp Ananda, organised by Divine Explorer, where our children were taken care of, by engaging them in various playful activities </i><i>by the hotel staff. Without this I think none of the moms would have been able to single mindedly attend Gurujis </i><i>lectures.</i></p>
