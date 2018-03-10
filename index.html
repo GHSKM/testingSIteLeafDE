@@ -1,0 +1,91 @@
+---
+layout: default 
+---
+   <section id="hero">
+        <div class="row ">
+            <div class="col-md-8">
+                <picture>
+                    <source media="(min-width: 768px)" srcset="{{ site.baseurl }}/images/HeaderMain.jpg" class="img-responsive" >
+                    <img src="{{ site.baseurl }}/images/HeaderMain_M.jpg" class="img-responsive">
+                </picture>
+            </div>
+            <div class="col-md-4  relativePosition padding-Top-Large">
+                
+                <div class="absolutePosition pull-lefty pull-down"><h2 class="text-primary  text-center">Who is Divine Explorer</h2>
+                <h4 class="padding-Small">We are team of spiritual seekers who combine learning spiritual wisdom with travel as we explore sacred energy
+                    spots or new destinations with a purpose to grow in wisdom.We invite you to become a part of Divine Explorer
+                    as you join our travels and become a part of creating a more conscious society.</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="main-Packages" class="section-a">
+        <div class="row padding-Small section-a" id="Guided">
+            <div class="col-md-3 normal-text">
+                <a href="{{site.baseurl}}explore">
+                    <h2>Be</h2>
+                    <div class="border-bottom"></div>
+                    <h3>Guided</h3>
+                </a>
+
+                <!--<a href="{{site.baseurl}}explore" class="button pull-right hidden-sm" role="button">View More</a>-->
+            </div>
+            <!--<div class="row" id="#Popular">-->
+            <div class="col-md-9">
+                {% include all-packages.html category="Popular" limit="2" IsGuided="true" %}
+            </div>
+        </div>
+        <div class="row padding-Small section-b" id="SelfGuided">
+
+            <div class="col-md-3 normal-text">
+                <a href="{{site.baseurl}}explore">
+                    <h2>Self</h2>
+                    <div class="border-bottom"></div>
+                    <h3>Guided</h3>
+                </a>
+                <!--<a href="{{site.baseurl}}explore" class="button pull-right" role="button">View More</a>-->
+            </div>
+            <!--<div class="row" id="#Popular">-->
+            <div class="col-md-9">
+                {% include all-packages.html category="Popular" limit="2" IsGuided="false" %}
+            </div>
+        </div>
+    </section>
+    <div class="border-bottom padding-Top-Medium"></div>
+    <section id="whyDE">
+        <div class="row padding-Large">
+            <div class="col-md-7 ">
+                <h2 class="text-primary border-bottom-thick padding-Medium"><b>Why Spiritual Journeys</b></h2>
+                <div class="row">
+                    <div class="col-md-6"><img src="{{site.baseurl}}/images/why_sp_travel.jpg"></div>
+                    <div class="col-md-6 padding-Medium">
+                        <ul>
+                            <li>Grow in wisdom as you travel</li>
+                            <li>Grow in awareness as you connect with nature and sacred</li>
+                            <li>Embark on your journey towards the truth...Find your life mission</li>
+                            <li>Connect with your self , like minded people and sacred energies</li>
+
+                            <a href="{{site.baseurl}}why-spiritual-journeys" class="button padding-Medium" role="button">View More</a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5 box margin-top-medium">               
+        <h2 class="text-primary border-bottom-thick"><b>Divine Memories</b></h2>
+ 
+               <div class="row">    
+        {% for memory in site.divine-memories | limit: "2" %}       
+                <div class="col-md-12" id="{{ include.Name | slugify }}">              
+                    <div class="text-secondary"> <b><h3>{{ memory.title }}</h3></b></div>
+                     <h4>{{ memory.excerpt  }}</h4>
+                     <p> - {{ memory.author  }}</p>   
+                </div>
+    {% endfor %}
+</div>
+            </div>
+                <div>
+                    <a href="{{site.baseurl}}divine-memories" class="button" role="button">View More</a>
+                </div>
+            </div>
+        </div>
+    </section>

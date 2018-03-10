@@ -1,0 +1,22 @@
+        <nav class="navbar navbar-default navbar-fixed-top" id="#mainNav">
+                <div class="container-fluid">
+                <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNav">
+                            <span class="sr-only">Toggle navigation</span>  <i class="fa fa-bars"></i>
+                        </button>         
+            <a class="navbar-brand" href="{{site.baseurl}}"><img src="{{ site.baseurl }}/logo.png" class="pull-left" alt="Divine Explorer logo"/></a>
+                    </div>     
+    <div class="collapse navbar-collapse" id="navbarNav">
+         <ul class="nav navbar-nav pull-right">
+	{% for link in site.data.navbar %}
+	{% assign class = "page-scroll" %}
+		{% if link.link == page.url %}
+			{% assign class = class | append: " active" %}
+		{% endif %}
+        <li><a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a></li>
+    {% endfor %}
+    </ul>
+    </div>
+</div>
+</nav>
+

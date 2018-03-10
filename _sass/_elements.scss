@@ -1,0 +1,225 @@
+label {
+	display: block;
+	letter-spacing: 2px;
+	font-size: 1.5rem;
+}
+
+.btn,
+input,
+textarea {
+	padding: 10px;
+	margin: 10px 0;
+	box-shadow: 1px 1px 5px 0 rgba(100, 100, 100, 0.2);
+	border: 0;
+	border-radius: 2px;
+	width: 100%;
+	max-width: 500px;
+	margin: 0 0 20px 0;
+	box-sizing: border-box;
+	font-size: 1em;
+}
+
+
+textarea {
+	min-height: $textarea-size;
+}
+
+.btn, input[type="submit"] {
+	background: #fff;
+	cursor: pointer;
+	border: 2px solid $brand-primary;
+	color: $brand-primary;
+	text-decoration: none;	
+	display: inline-flex;
+  align-items: flex-end;
+	margin: 0;
+	font-size: 1em;	
+	
+	&:hover {
+		background:$brand-primary;
+		color: #fff;
+	}
+
+	&:focus {
+		outline: none;
+	}
+}
+
+.button {
+    display: inline-block;
+    margin: 0.5em 0;
+    padding: 10px 15px;
+    border: 3px solid $brand-primary;
+    color: $brand-primary;
+    text-decoration: none;
+    font-weight: 600;
+    opacity: 1;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+
+    &:hover {
+        background: $brand-primary;
+        color: #fff;
+        text-decoration: none;
+    }
+}
+a{
+	text-decoration: none;
+}
+
+#hero
+{
+	min-height: 100vh;
+}
+
+#Enquiry input[type=submit] {
+		display: inline-block;
+    margin: 0.5em 0;
+    padding: 0.9em 1.2em;
+    border: 3px solid $brand-primary;
+    color: $brand-primary;
+    &:hover {
+				border-color: $brand-secondary;
+				background-color:#fff;
+        color: $brand-secondary;
+        text-decoration: none;
+    }
+
+}
+	#company-address a, footer a{
+		color:#fff;
+
+		&:hover{
+			color:white;
+			
+		}
+	}
+
+
+
+
+
+
+  @media (min-width: 768px) {
+	
+  }
+.nav-tabs 
+{
+	.nav-link
+	{
+		color : $sub-link-color;
+		font-size : 1em;
+		&:hover {
+			color: $brand-primary;
+			background-color: none;
+		}
+		a:hover {			
+			background-color: none;
+		}
+	}
+	
+}
+
+::-webkit-input-placeholder { /* Chrome */
+  color: $light-grey;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+  color: $light-grey;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: $light-grey;
+  opacity: 1;
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+  color: $light-grey;
+  opacity: 1;
+}
+select {
+	width: 100%;
+	padding: 20px;
+	height: 43px;
+	background: #fff;
+	border-color: $brand-primary;
+	font-size: 1em;
+	outline: 1px solid $brand-primary;
+	&:focus {
+		outline: 2px solid #333;
+	}
+}
+.separator
+{
+	height:7px;
+	width:100%;
+	border-bottom: 2px dotted #404040;
+}
+
+ul li{
+	padding-bottom: 10px;
+	font-size: 1.2em;
+}
+
+.thumbnail {
+    border-top: 6px solid $brand-secondary;
+    background-color: #fff;
+    margin: 0 1rem 0 0;
+    box-shadow: 5px 5px 20px 0 rgba(46,61,73,.2);
+    border-radius: .375rem;
+    padding: 0 1.5rem 3rem;
+  
+}
+#main-Packages .thumbnail {
+    height: auto;
+   
+}
+.thumbnail img {
+    display: block;
+    width:100%;
+		height: 200px;
+	  object-fit: cover;
+}
+	.thumbnail img.not-package {
+    display: block;
+    width:100%;
+		height: 250px;
+}
+
+
+#aboutDE .nav
+{
+	display: flex;
+	flex-flow: row;
+justify-content: center;
+}
+	
+
+//Alternate Design
+
+nav.alt {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background: rgba(255, 255, 255, .9);
+	z-index: 999;
+
+	a {
+		display: inline-block;
+		text-decoration: none;
+		padding: 15px 10px;
+		color:$brand-primary;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: 1em;
+
+		&.active {
+			color:$brand-secondary;
+		
+		}
+
+		&:hover {
+			color: #888;
+			border-bottom: 3px solid $brand-primary;
+		}
+	}
+}

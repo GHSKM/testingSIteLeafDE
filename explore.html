@@ -1,0 +1,42 @@
+---
+layout: default
+permalink: /explore/
+---
+{% assign rows = site.journeys.size | divided_by: 3.0 | ceil %}
+<!-- {{rows}} -->
+{% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 3 %}
+  <!-- {{offset}} -->
+  <div class="row">
+    {% for journey in site.journeys limit:3 offset:offset %}
+         <div class="col-xs-12 col-sm-6 col-md-4 section-a" id="{{ include.Name | slugify }}">
+          <div class="thumbnail text-center">       
+            <img src= "{{site.baseurl}}{{ journey.thumbnail }}" alt="">
+              <div class="caption">
+                <h4 class="text-primary"> <b>{{ journey.title }}</b> </h4>                           
+                  <p>{{ journey.excerpt }}</p>
+                  <p><a href="{{site.baseurl}}{{ journey.url }}" class="button" role="button">View More</a> </p>
+            </div>
+          </div>
+        </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+   <!-- <div class="row">
+    {% for journey in site.journeys %}
+    <div class="col-xs-12 col-sm-6 col-md-4 section-a" id="{{ include.Name | slugify }}">
+          <div class="thumbnail text-center">       
+            <img src= "{{site.baseurl}}{{ journey.thumbnail }}" alt="">
+              <div class="caption">
+                <h4 class="text-primary"> <b>{{ journey.title }}</b> </h4>                           
+                  <p>{{ journey.excerpt }}</p>
+                  <p><a href="{{site.baseurl}}{{ journey.url }}" class="button" role="button">View More</a> </p>
+            </div>
+          </div>
+        </div>
+{% endfor %}
+</div>   -->
+
+   <!-- {% include all-packages.html category="Divine"  IsGuided="" %}
+     {% include all-packages.html category="Popular"  IsGuided="" %}
+       {% include all-packages.html category="Pilgrimage"  IsGuided="" %} -->

@@ -1,0 +1,12 @@
+---
+- name: Home
+  link: "/"
+- name: About
+  link: "/about/"
+- name: Explore
+  link: "/explore/"
+- name: Guides
+  link: "/guides/"
+- name: Why
+  link: "/why-spiritual-journeys/"
+

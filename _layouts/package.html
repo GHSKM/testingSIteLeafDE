@@ -1,0 +1,80 @@
+---
+layout: default
+--- 
+<div class="row ">
+    <div class="col-md-12">
+        <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}" class="fullWidth jumboHeight">
+    </div>
+    
+</div>
+<hr>
+<div class="margin-bottom-small">
+    <div class="row relativePostion">
+         <div class="col-md-8 thinBorder padding-Large section-a">
+                
+            <p><strong>{{page.journey-description}}</strong></p>
+            <div id="#places-covered">
+                    <p class="text-primary"><img src="{{site.baseurl}}/images/places_covered.png" alt="{{page.title}}"/><b>Places</b> Covered</p>
+                    </div>
+            {{ content }}
+
+            <div class="separator"></div>
+            <div id="#Journey-guides">
+                    <p class="text-primary"><img src="{{site.baseurl}}/images/spiritual_master.png" alt="{{page.title}}"/><b>Journey</b> guides</p>
+                    {% if page.guided %}
+                        <p>
+                                Guruji Prem Nirmal and Guruma Bharti Ji guide us through this transforming journey as we understand how to merge materialism and spirituality and live a life of abundance.
+
+ 
+
+                                Both Guruji and Guruma are spiritual scientists, who encourage us to learn by questioning and support their explanation scientific proof.
+                        
+                        </p>
+                        {% else %}
+                        <p>
+
+                                Self guided journey for self purification.
+
+                                Becoming a conscious traveler  by taking a self-guided journey/retreat can be a transforming.
+                                
+                                Self guided journey allows you to  explore more than just the destination, and take that first step to discover more about your inner self, ask questions, visit  yourself, meditate, contemplate, reflect  and bond with higher consciousness,
+                                
+                                Its a journey which encourages you to  ‘sense’ the vibrations of a location and ‘feel’ the energy of a destination. Embarking on journey which includes not just places but your self ...is conscious traveling on a self-guided journey.
+                            </p>
+                            {% endif %}
+            </div>
+
+            <div class="separator padding-Medium"></div>
+            <div id="#Journey-experience">
+                    <p class="text-primary"><img src="{{site.baseurl}}/images/tour_benefits.png" alt="{{page.title}}"/><b>Journey</b> Experience</p>
+                    {% for experience in page.journey-experience %}
+                    <ul>
+                          <li>{{ experience }}</li>	
+    
+                    </ul>	
+                          
+                    {% endfor %}
+            </div>
+        
+        </div>
+        <div class="col-md-4 col-xs-12 padding-Small ">
+                <p><a href="{{site.baseurl}}/faq" class="button" role="button"> Journey FAQ</a> </p>
+             
+            {% unless page.map-image == blank %}
+                                       <p><img src="{{site.baseurl}}{{page.map-image}}" alt="{{page.title}}" class="img-responsive"/></p>
+            {% endunless %}
+                <p class="bg-gray text-primary"><img src="{{site.baseurl}}/images/tour_benefits.png" alt="{{page.title}}" class="img-responsive"/><b>Journey</b> Highlights</p>
+                <!-- <p>{{page.journey-highlights}}</p> -->
+
+                {% for highlight in page.journey-highlights %}
+                <ul>
+                      <li>{{ highlight }}</li>	
+
+                </ul>	
+			      	
+	            {% endfor %}
+        </div>      
+
+    </div>
+</div>
+<hr>

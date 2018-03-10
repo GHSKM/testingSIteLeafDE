@@ -1,0 +1,10 @@
+---
+layout: default
+title: Rarefied Learning
+categories:
+- Divine Memories
+date: 2015-01-27 17:07:36 -1100
+excerpt_separator: "<!--more-->"
+author: Spiritual Seeker
+---
+<p><i>After attending 6 intense learning camps in the past 18 months, out which were two retreats organised by Divine Explorer, my understanding is that these camps are Accelerated Transformation platforms. <!--more-->Each time I have attended a camp, I have grown in understanding, sensitivity and also witnessed my “Opportunities to improve on”.</i></p><p><i>We had the fortune of spending 11 days with Guruji, the trip was smorgasbord of knowledge sessions, meditations at Power spots / energized caves, close encounter with Mystics and Enlightened Masters and understanding and deleting Karmas instantaneously. Our journey started with Navagraha temples, shifted to knowledge sessions under holy Arunachalam, we experienced bliss in Ramana Maharishi and Yogi Ram Surat Kumar’s cave/ashram and we successfully completed Karmashalan processes in Rameshwaram in systemic manner. As we soaked ourselves in healing waters of Coutrallam, we supplemented it with meditative fire in Velamma and Maha Avtar Babaji’s cave. Each day was so fulfilling that I could witness myself growing in Awareness and Understanding; Gurubandhus who joined in from 5 different countries played a key role in further shaping my understanding. Special gratitude to Anup and Rajdeep who with lot of love, explained finer details that I otherwise would have missed.</i></p><p><i>These camps are a MUST for a sincere seeker who is keen on growing faster; with each camp the intensity of learning, meditation and understanding is growing and so is the love in the Kriya family.</i></p><p><i>Deep gratitude and reverence to Guruji and Gurumaa who continue to pushing us to grow faster and realize Our True Self.</i></p><p><strong><i>Many thanks to Divine Explorer arranging such a smooth and hassle free travel, stay and activities for our inner journey. </i><br /></strong></p>
