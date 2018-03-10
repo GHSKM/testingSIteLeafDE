@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /guides/:path
 ---
 <div class="row">
     <div class="col-md-4">
